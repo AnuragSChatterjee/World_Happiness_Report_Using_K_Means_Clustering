@@ -1,0 +1,2 @@
+# World_Happiness_Report_Using_K_Means_Clustering
+In this case study, we will train an unsupervised machine learning algorithm to cluster countries based on features such as economic production, social support, life expectancy, freedom, absence of corruption, and generosity. The World Happiness Report determines the state of global happiness. The happiness scores and rankings data has been collected by asking individuals to rank their life from 0 (worst possible life) to 10 (best possible life).
